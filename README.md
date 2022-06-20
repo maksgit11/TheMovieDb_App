@@ -1,21 +1,6 @@
 # themovie_db
-
-\begin{minipage}[t]{.49\textwidth}
-    \vspace{0pt}
-    \centering
-    \begin{tikzpicture}
         <img src="images/photo_2022-06-20_22-34-17.jpg">
-    \end{tikzpicture}
-\end{minipage}
-\begin{minipage}[t]{.49\textwidth}
-    \vspace{0pt}
-    \centering
-    \begin{tikzpicture}
         <img src="images/photo_2022-06-20_22-34-23.jpg">
-    \end{tikzpicture}
-\end{minipage}
-
-
 A new Flutter project.
 
 ## Getting Started
