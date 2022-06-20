@@ -1,5 +1,18 @@
 # themovie_db
 
+\begin{minipage}{.49\textwidth}
+    \centering
+    \begin{tikzpicture}
+        <img src="images/photo_2022-06-20_22-34-17.jpg">
+    \end{tikzpicture}
+\end{minipage}
+\begin{minipage}{.49\textwidth}
+    \centering
+    \begin{tikzpicture}
+        <img src="images/photo_2022-06-20_22-34-17.jpg">
+    \end{tikzpicture}
+\end{minipage}
+
 A new Flutter project.
 
 ## Getting Started
