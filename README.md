@@ -1,4 +1,6 @@
-# themovie_db
+# The Movie Database
+
+Приложение на подобии КиноПоиска созданное с помощью Flutter. В качестве Api взял database TheMovieDb.
 
 <p>
 <img src="images/video_2022-06-20_22-36-31 (1).gif" width = 240>
