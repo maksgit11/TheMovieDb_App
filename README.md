@@ -1,11 +1,11 @@
 # themovie_db
 
 <p>
-<img src="images/photo_2022-06-20_22-34-17.jpg" width = 200>
-<img src="images/photo_2022-06-20_22-34-17.jpg" width = 200>
-<img src="images/photo_2022-06-20_22-34-17.jpg" width = 200>
-<img src="images/photo_2022-06-20_22-34-17.jpg" width = 200>
-<img src="images/photo_2022-06-20_22-34-17.jpg" width = 200>
+<img src="images/video_2022-06-20_22-36-31 (1).gif" width = 200>
+<img src="images/photo_2022-06-20_22-34-40.jpg" width = 200>
+<img src="images/photo_2022-06-20_22-34-36.jpg" width = 200>
+<img src="images/photo_2022-06-20_22-34-25.jpg" width = 200>
+<img src="images/photo_2022-06-20_22-34-23.jpg" width = 200>
 <img src="images/photo_2022-06-20_22-34-17.jpg" width = 200>
 <img src="images/photo_2022-06-20_22-34-17.jpg" width = 200>
   </p>
