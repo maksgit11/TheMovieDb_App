@@ -1,6 +1,6 @@
 # themovie_db
 
-<img src="images/photo_2022-06-20_22-34-17.jpg">
+<img src="images/photo_2022-06-20_22-34-17.jpg" width = 100>
         <img src="images/photo_2022-06-20_22-34-23.jpg">
 A new Flutter project.
 
