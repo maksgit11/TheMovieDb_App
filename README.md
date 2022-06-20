@@ -1,5 +1,6 @@
 # themovie_db
 
+<p>
 <img src="images/photo_2022-06-20_22-34-17.jpg" width = 200>
 <img src="images/photo_2022-06-20_22-34-17.jpg" width = 200>
 <img src="images/photo_2022-06-20_22-34-17.jpg" width = 200>
@@ -7,6 +8,7 @@
 <img src="images/photo_2022-06-20_22-34-17.jpg" width = 200>
 <img src="images/photo_2022-06-20_22-34-17.jpg" width = 200>
 <img src="images/photo_2022-06-20_22-34-17.jpg" width = 200>
+  </p>
 
 A new Flutter project.
 
